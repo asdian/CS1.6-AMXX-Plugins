@@ -1,0 +1,2 @@
+d_gungnir			640 640hud44	172	48	48	16
+d_gungnirex			640 640hud56	172	144	48	16
