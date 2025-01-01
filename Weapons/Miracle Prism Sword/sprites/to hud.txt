@@ -1,0 +1,4 @@
+d_magicknife			640 640hud56	172	16 	48	16
+
+/// for my csohud plugin
+knife_magicknife		640 640hud106	0	180	170	45
